@@ -1,6 +1,8 @@
 # Tech_Blog
 https://limitless-tundra-93883.herokuapp.com
 
+https://git.heroku.com/limitless-tundra-93883.com
+
 ## Description
 ```md
 This is a Tech_Blog where users can post and interact with eachother.
