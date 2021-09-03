@@ -1,5 +1,5 @@
 # Tech_Blog
-https://git.heroku.com/limitless-tundra-93883.com
+https://limitless-tundra-93883.herokuapp.com
 
 ## Description
 ```md
