@@ -1,2 +1,2 @@
 # Tech_Blog
-https://limitless-tundra-93883.herokuapp.com/
+https://limitless-tundra-93883.herokuapp.com
